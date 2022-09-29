@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.App {
+    height: 100%;
+
+    background-image: url("./media/images/iphone_bg.png");
+    background-position: 35vw -5vh;
+    background-repeat: no-repeat;
+}
+
+.bttn {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: large;
+
+    padding: 1rem
+}
+
+.container {
+    position: relative;
+
+    width: 100vw;
+    height: 100vh;
+}
+.maxcontent-container {
+    display: initial;
+
+    height: max-content !important;
+}
+.container-separator {
+    width: calc(100% - 2 * 7rem);
+    margin: auto;
+}   
+
+.slide-container {
+    display: flex;
+    position: relative;
+
+    top: 0;
+    left: 0;
+
+    padding: 0 7rem;
+
+    flex-direction: column;
+
+    justify-content: center;
+
+    width: 35% !important;
+}
+.slide-title {
+    font-size: 4rem;
+}
+.slide-description {
+    color: #3f3f3f;
+}

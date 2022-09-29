@@ -1,0 +1,33 @@
+.footer-block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 0 8rem 2rem 7rem;
+
+    height: 3rem;
+}
+
+#language-selector {
+    color: #000;
+
+    display: flex;
+
+    align-items: center;
+}
+#language-selector > span{
+    margin-left: 0.5rem;
+}
+
+.social-block {
+    display: flex;
+    align-items: center;
+
+    gap: 0.5rem;
+}
+.social-block > a {
+    color: #000;
+
+    display: flex;
+    align-content: center;
+}

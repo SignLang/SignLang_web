@@ -1,0 +1,24 @@
+.carousel {
+    margin: 3rem auto;
+
+    width: calc(100% - 2 * 7rem);
+}
+
+.member {
+    color: #1F37D6;
+
+    text-align: center;
+}
+
+.member > img {
+    border-radius: 50%;
+    
+    aspect-ratio: 1;
+
+    object-fit: conver;
+
+    height: 100%;
+    width: 100%;
+
+    margin-bottom: 2rem;
+}

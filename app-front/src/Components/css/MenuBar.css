@@ -1,0 +1,45 @@
+.menu {
+    position: fixed;
+    display: flex;
+
+    top: 0;
+    left: 0;
+
+    padding: 2rem 0 5rem 0;
+    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0));
+
+    width: 100%;
+
+    justify-content: center;
+
+    z-index: 10;
+}
+
+.menu > * {
+    flex-grow: 1;
+}
+
+.menu > .menu-right > ul {
+    justify-content: right;
+}
+
+.menu > * > ul {
+    display: flex;
+    height: 100%;
+
+    margin: 0;
+    padding: 0 7rem;
+
+    list-style-type: none;
+}
+
+.menu .menu-item {
+    padding: 0 1rem;
+
+    color: #1F37D6;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: larger;
+
+    align-self: center;
+}
