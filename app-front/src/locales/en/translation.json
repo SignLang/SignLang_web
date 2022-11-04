@@ -1,0 +1,26 @@
+{
+    "pages": ["SignLang", "Product", "Solution", "About us", "Contact us"],
+    "bttn_try": "Try SignLang free",
+    
+    "welcome_slide": {
+        "title": "Words behind silence",
+        "description": "Hey there! \n We are SignLang team and we are proud to present our real time Sign Language translator."
+    },
+    
+    "project_slide": {
+        "title": "Project", 
+        "description": "SignLang is an innovative sign language translator. \n Deaf and mute people struggle to adapt in soiety because others find it hard to understand them. \n To solve this problem we suggest software that translates sign language into natural language so that user can understand signs shown by a sign language user."
+    },
+
+    "team_slide": {
+        "title": "Meet our team",
+        "members": [
+            "Alex Aramyan",
+            "Gegham Zakaryan",
+            "Elen Arakelyan",
+            "Milena Ghazaryan",
+            "Hovhannes Tumanyan",
+            "Ruben Sargsyan"
+        ]
+    }
+}

@@ -1,7 +1,8 @@
 .carousel {
     margin: 3rem auto;
 
-    width: calc(100% - 2 * 7rem);
+    /* width: calc(100% - 2 * 7rem); */
+    width: 100%;
 }
 
 .member {

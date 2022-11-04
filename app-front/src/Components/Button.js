@@ -3,7 +3,7 @@ import React from "react";
 import {styled} from "@mui/material/styles";
 import Button from "@mui/material/Button";
 
-import "./css/Button.css";
+// import "./css/Button.css";
 
 const bttn_style = {
     color: "white",
@@ -36,5 +36,3 @@ export {
     ButtonSignLangMui
 };
 
-// export default ButtonSignLangRegular;
-// export default ButtonSignLangMui;

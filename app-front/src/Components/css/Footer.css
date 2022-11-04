@@ -18,16 +18,3 @@
 #language-selector > span{
     margin-left: 0.5rem;
 }
-
-.social-block {
-    display: flex;
-    align-items: center;
-
-    gap: 0.5rem;
-}
-.social-block > a {
-    color: #000;
-
-    display: flex;
-    align-content: center;
-}

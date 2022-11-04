@@ -1,0 +1,26 @@
+{
+    "pages": ["SignLang", "Produit", "Solution", "À propos de nous", "Contacez nous"],
+    "bttn_try": "Essayez SignLang gratuitement",
+    
+    "welcome_slide": {
+        "title": "Des mots derrière le silence",
+        "description": "Salut! \n Nous sommes l'équipe SignLang et nous sommes fiers de vous présenter notre traducteur de langue des signes en temps réel."
+    },
+    
+    "project_slide": {
+        "title": "Projet",
+        "description": "SignLang est un traducteur innovant en langue des signes. \n Les personnes sourdes et muettes ont du mal à s'adapter en toute sécurité car les autres ont du mal à les comprendre. \n Pour résoudre ce problème, nous suggérons un logiciel qui traduit la langue des signes en langage naturel afin que l'utilisateur puisse comprendre les signes affichés par un utilisateur de la langue des signes."
+    },
+
+    "team_slide": {
+        "title": "Rencontrez notre équipe",
+        "members": [
+            "Alex Aramyan",
+            "Gegham Zakaryan",
+            "Elen Arakelyan",
+            "Milena Ghazaryan",
+            "Hovhannes Tumanyan",
+            "Ruben Sargsyan"
+        ]
+    }
+}
